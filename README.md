@@ -1,4 +1,4 @@
-# Internship at Bharal Electronics Limited (BEL)
+# Internship (buiding a JavaFX based Desktop Quiz application )
 
 I had an oppurtunity of working as a software developer intern at the prestigious BEL company. During my internship period, I developed two projects : <br>
 
